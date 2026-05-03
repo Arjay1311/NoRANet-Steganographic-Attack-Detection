@@ -5,6 +5,20 @@ The framework combines residual-based feature extraction, attention mechanisms, 
 
 ---
 
+## Publication
+
+This work has been published in IEEE:
+
+**Dual Adversarial Network with Residual Attention for Detecting Steganographic Attacks**  
+International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), 2026  
+
+🔗 https://ieeexplore.ieee.org/document/11489433
+
+---
+
+
+---
+
 ## Architecture Overview
 
 <img src="images/NoRANet_Architecture_Diagram.svg" width = "900"/>
